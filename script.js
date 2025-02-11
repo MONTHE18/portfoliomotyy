@@ -20,7 +20,7 @@ if (navClose) {
 }
 
 var typed = new Typed('#multiText', {
-  strings: ['Mahasiswa', 'Youtuber', 'FrontEnd Developer'],
+  strings: ['Mahasiswa', 'BackEnd Developer', 'FrontEnd Developer'],
   loop: true,
   typeSpeed: 100,
   backSpeed: 100,
